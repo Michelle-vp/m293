@@ -1,0 +1,42 @@
+Repository-Struktur
+
+Uebungen[Ordner]
+
+  D1[Ordner] (Lösungen für die Übungen aus D1)
+  H1[Ordner] (Lösungen für die Übungen aus H1)
+  ....
+
+
+Projekt[Ordner]
+
+  Grundaufbau[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Grundaufbau")
+  
+  Readme.md
+  Styleguide.xxx (md, docx, etc)
+  Site[Ordner] (hier kommt ihre Website)
+  Templates[Ordner] (hier kommen ihre Templates)
+  
+  
+  Formulare[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Formulare")
+  
+  gleiche Struktur wie bei Grundaufbau...
+  
+  
+  Responsive[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Responsive")
+  
+  gleiche Struktur wie bei Grundaufbau...
+  
+  
+  Optimierung[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Optimierung")
+  
+  gleiche Struktur wie bei Grundaufbau...
+  
+  
+  Medien[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Medien")
+  
+  gleiche Struktur wie bei Grundaufbau...
+  
+  
+  Preprocessor[Ordner] (Inhalte ihres Projekts aus Teilprojekt "Preprocessor")
+  
+  gleiche Struktur wie bei Grundaufbau...
