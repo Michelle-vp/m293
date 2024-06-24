@@ -1,5 +1,5 @@
-#Quick description of the project
+#Kurze Beschreibung des Projekts
 
-This project consists in a website where people can watch movies and see the details of it.
-First the user must create and account and can log in having a personilized experience.
-There's a lot of different movies to watch from documentaries to romance.
+Dieses Projekt besteht aus einer Website, auf der man sich Filme anschauen und die Details dazu sehen kann.
+Zuerst muss der Benutzer ein Konto erstellen und kann sich dann anmelden, um eine personalisierte Erfahrung zu machen.
+Es gibt eine Menge verschiedener Filme zu sehen, von Dokumentarfilmen bis hin zu Liebesfilmen.
