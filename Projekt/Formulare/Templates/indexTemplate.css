@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+}
+
+header .logo {
+    flex: 1;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+    padding: 8px 16px;
+    transition: background-color 0.3s;
+}
+
+header nav ul li a:hover {
+    background-color: #ddd;
+    border-radius: 4px;
+}
+
+header .searchbar {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header .searchbar input {
+    width: 80%;
+    padding: 5px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.weiter-ansehen, .empfehlungen {
+    margin-bottom: 20px;
+}
+
+.weiter-ansehen h2, .empfehlungen h2 {
+    margin-bottom: 10px;
+}
+
+.grid-container {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+.grid-item {
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.caption {
+    margin-top: 8px;
+    font-size: 14px;
+}
